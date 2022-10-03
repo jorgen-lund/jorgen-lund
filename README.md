@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jorgen-lund currently and I'm studying Informatics at NTNU Trondheim. 
 - 👀 I’m interested in programming, and at the moment using a lot of React both in University and at home. 
 - 🌱 I’m currently learning React and Typescript
+-     Will post more of my projects soon, but at the moment projects at university require my attention
 
 <!---
 jorgen-lund/jorgen-lund is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
