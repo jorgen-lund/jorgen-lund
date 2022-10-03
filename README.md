@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jorgen-lund currently studying Informatics at NTNU Trondheim. 
+- 👋 Hi, I’m @jorgen-lund currently and I'm studying Informatics at NTNU Trondheim. 
 - 👀 I’m interested in programming, and at the moment using a lot of React both in University and at home. 
 - 🌱 I’m currently learning React and Typescript
 
